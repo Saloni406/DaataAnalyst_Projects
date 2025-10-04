@@ -48,3 +48,6 @@ Churn rate reduction: –17%
 Revenue growth potential: +12%
 
 Customer satisfaction uplift: +20%
+
+<img width="1722" height="842" alt="Screenshot 2025-10-04 141906" src="https://github.com/user-attachments/assets/d3d667e4-9b9b-4562-8f95-caa993867c6d" />
+
