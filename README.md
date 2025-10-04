@@ -49,5 +49,12 @@ Revenue growth potential: +12%
 
 Customer satisfaction uplift: +20%
 
+1.#Overall: Lack of support/security services is linked with higher churn, while basic phone/internet service alone doesn’t prevent churn.
+
 <img width="1722" height="842" alt="Screenshot 2025-10-04 141906" src="https://github.com/user-attachments/assets/d3d667e4-9b9b-4562-8f95-caa993867c6d" />
+
+2.Customer is likely to churn when he/she is using electronic check as payment method.
+
+<img width="693" height="632" alt="image" src="https://github.com/user-attachments/assets/029ad0be-d8e4-4352-8be4-997c111a3985" />
+
 
